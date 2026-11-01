@@ -1,0 +1,8 @@
+# =====================================================================
+# CineBook – Database Configuration Template
+# Copy this file to src/main/resources/db.properties and configure
+# =====================================================================
+db.url=jdbc:mysql://localhost:3306/cinebook_db?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC
+db.user=root
+db.password=your_password_here
+db.driver=com.mysql.cj.jdbc.Driver

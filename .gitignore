@@ -1,0 +1,19 @@
+# Compiled class files
+*.class
+
+# Maven target directory
+target/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# Local sensitive database credentials (use db.properties.example instead)
+src/main/resources/db.properties
+
+# Logs
+*.log
